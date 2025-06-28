@@ -60,3 +60,13 @@ Bir çocuk gece ormanda oynarken topunu kaybeder. Yalnız gece ormanda yürümek
 | `C`          | Kamera modları arasında geçiş yap            |
 | `ESC`        | Uygulamadan çıkış                            |
 
+---
+
+##  :sparkles: Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/a1d18b4e-686c-47af-8fe9-6f5cb323a415)
+![image](https://github.com/user-attachments/assets/7940c188-0999-4e05-a9c4-a1b6349a6569)
+![image](https://github.com/user-attachments/assets/aafd7081-b6b1-46b2-a31e-337963b70c68)
+
+
+
