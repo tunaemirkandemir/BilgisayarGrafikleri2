@@ -18,7 +18,7 @@ in vec2 TexCoords;
 void main()
 {
 
-    float globalAmbientStrength = 0.15;
+    float globalAmbientStrength = 0.30;
     vec3 globalAmbient = globalAmbientStrength * lightColor;
 
     vec3 lighting = globalAmbient;
