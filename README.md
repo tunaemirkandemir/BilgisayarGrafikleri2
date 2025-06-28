@@ -1,3 +1,11 @@
+#Rapor Dosyası Linki
+https://github.com/tunaemirkandemir/BilgisayarGrafikleri2/blob/main/1306220014-TunaEmirKandemir-2.Proje.pdf
+
+#Video Kydı MP4 Linki
+https://github.com/tunaemirkandemir/BilgisayarGrafikleri2/blob/main/Bilgisayar%20Grafikleri%20Kay%C4%B1t.mp4
+
+---
+
 # Kayıp Top – OpenGL Kısa Animasyon Projesi 🎮🌲
 
 Bu proje, bir çocuğun gece vakti ormanda kaybolan topunu aradığı kısa animasyon hikayesini modern OpenGL kullanarak görselleştirir. Kullanıcı, karar verme anlarında hikayeye yön verirken sahne, aydınlatma ve kamera geçişleriyle sinematik bir deneyim sunar. Kullanıcı toplam 5 adet kamera açısıyla animasyonu 5 farklı şekilde deneyimleyebilir. Sahnenin ana karakteri çocuğa yol göstererek ne yapması gerektiğini söyleyebilir. Kullanıcı ne yapması gerektiğini ekranın sol altındaki bildirim satırından görüntüleyebilir. Ana karakterin çıkardığı sesler ile animasyonun içine girer.
