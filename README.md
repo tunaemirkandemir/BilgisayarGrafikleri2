@@ -60,13 +60,3 @@ Bir çocuk gece ormanda oynarken topunu kaybeder. Yalnız gece ormanda yürümek
 | `C`          | Kamera modları arasında geçiş yap            |
 | `ESC`        | Uygulamadan çıkış                            |
 
----
-
-## 🧪 Derleme & Çalıştırma
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./KayıpTop
